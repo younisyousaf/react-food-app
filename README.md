@@ -1,8 +1,21 @@
-# React + Vite
+# Food App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Food App, a React-based application for searching and viewing recipes using the Spoonacular API. This app allows users to search for recipes, view details, and more.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Testing with Postman](#testing-with-postman)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Search Recipes:** Users can search for recipes based on keywords, ingredients, or cuisines.
+- **View Recipe Details:** Detailed information about each recipe, including ingredients, instructions, and nutritional facts.
+- **User-friendly Interface:** A clean and intuitive user interface built with React Hooks and state management.
