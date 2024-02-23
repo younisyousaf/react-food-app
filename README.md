@@ -5,14 +5,6 @@ Welcome to the Food App, a React-based application for searching and viewing rec
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Testing with Postman](#testing-with-postman)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
