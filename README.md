@@ -1,6 +1,6 @@
 # Food App
 
-Welcome to the Food App, a React-based application for searching and viewing recipes using the Spoonacular API. This app allows users to search for recipes, view details, and more.
+Welcome to the Food App, a React-based application for searching and viewing recipes using the Edamam API. This app allows users to search for recipes, view details, and more.
 
 ## Table of Contents
 
